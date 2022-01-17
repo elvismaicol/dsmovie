@@ -15,7 +15,7 @@ Projeto de um aplicativo catálogo de filmes desenvolvido durante o evento Seman
 
 ## 🚀 Acessar e usar a aplicação
 
-Clicar o logo abaixo(aguardar de 1 a 2 minutos até que a aplicação inicie):
+Clicar no logo abaixo(aguardar de 1 a 2 minutos até que a aplicação inicie):
 
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://elvisdsmovie.netlify.app/)
 
