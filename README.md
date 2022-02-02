@@ -26,4 +26,10 @@ Clicar no logo abaixo(aguardar de 1 a 2 minutos até que a aplicação inicie):
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/elvismaicol/dsmovie" />
 <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/elvismaicol/dsmovie" />
 </div>
+</br>
 
+## 📌 Visualização
+</br>
+</br>
+
+![](img/DSMovie.PNG)
